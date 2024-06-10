@@ -1,91 +1,91 @@
 ﻿Sample_ID,Site_name,Sample_Collection_Date,Lat,Lon,Type,Elevation_mabsl,Subgroup,dD,dD_SD,d18O,d18O_SD,d_excess,Data_source
-BW-22-1,Jordan River at Park,5/23/2022,40.7501391,-111.9209121,River_or_stream,1836.938319,Downstream,-102.24,0.39,-12.91,0.06,1.04,P2C2 Project
-BW-22-2,Bridger Bay at Antelope Island,5/23/2022,41.0566328,-112.2558003,Lake,1911.328032,Downstream,-57.99,0.62,-3.38,0.12,-30.95,P2C2 Project
-BW-22-3,,,,,Ground,,Downstream,-126.2,0.53,-16.67,0.05,7.16,P2C2 Project
-BW-22-4,Lake Inflow,5/23/2022,41.0601557,-112.235448,Lake,,Downstream,-68.5,0.53,-5.62,0.04,-23.54,P2C2 Project
-BW-22-5,Bear river,5/23/2022,41.54585,-112.09538,River_or_stream,2001.431114,Downstream,-111.82,0.48,-13.82,0.04,-1.26,P2C2 Project
-BW-22-6,Cutler Reservoir,5/23/2022,41.84329,-112.00322,Reservoir,2062.8178,Downstream,-120.07,0.49,-15.73,0.03,5.77,P2C2 Project
-BW-22-7,Bear River Main Stem,5/24/2022,42.19311,-111.77848,River_or_stream,,Downstream,-118.53,0.52,-15.15,0.06,2.67,P2C2 Project
-BW-22-8,Mink Creek,5/24/2022,42.19325,-111.7808,River_or_stream,,Downstream,-120.12,0.47,-15.89,0.05,7,P2C2 Project
-BW-22-9,Bear River Main Stem,5/23/2022,42.34721,-111.71274,River_or_stream,2149.21092,Downstream,-117.74,0.43,-14.86,0.06,1.14,P2C2 Project
-BW-22-10,small stream off road,5/24/2022,42.32097,-111.76489,River_or_stream,,Downstream,-112.49,0.39,-14.3,0.03,1.91,P2C2 Project
-BW-22-11,Trout Creek,5/24/2022,42.40792,-111.72494,River_or_stream,,Downstream,-118.27,0.38,-15.55,0.03,6.13,P2C2 Project
-BW-22-12,Whiskey Creek,5/24/2022,42.45403,-111.72108,River_or_stream,,Downstream,-109.98,0.36,-13.52,0.03,-1.82,P2C2 Project
-BW-22-13,Bear River Below Dam,5/24/2022,42.58582,-111.72944,River_or_stream,,Downstream,-118.83,0.33,-15.01,0.04,1.25,P2C2 Project
-BW-22-14,Bear River Main Stem,5/23/2022,42.64553,-111.69917,River_or_stream,2169.902679,Downstream,-117.87,0.34,-14.87,0.03,1.09,P2C2 Project
-BW-22-15,Soda Springs Creek,5/24/2022,42.65606,-111.61775,River_or_stream,,Downstream,-126.8,0.29,-16.41,0.03,4.48,P2C2 Project
-BW-22-16,Ledger Creek,5/24/2022,42.61679,-111.58431,River_or_stream,,Downstream,-129.87,0.24,-16.96,0.03,5.81,P2C2 Project
-BW-22-17,Main Stem Bear,5/23/2022,42.61413,-111.58372,River_or_stream,2179.209709,Downstream,-111.05,0.31,-13.7,0.03,-1.45,P2C2 Project
-BW-22-18,Eight Mile Creek,5/23/2022,42.57935,-111.54526,River_or_stream,2228.41974,Downstream,-121.53,0.19,-16.42,0.03,9.83,P2C2 Project
-BW-22-18,Eightmile Creek,5/23/2022,42.57935,-111.54526,River_or_stream,2228.41974,Downstream,,,,,0,P2C2 Project
-BW-22-19,Pearl Creek,5/24/2022,42.52925,-111.47614,River_or_stream,,Downstream,-122.82,0.23,-16.5,0.03,9.18,P2C2 Project
-BW-22-20,Small creek,5/24/2022,42.51015,-111.46625,River_or_stream,,Downstream,-129.21,0.04,-17.07,0,7.35,P2C2 Project
-BW-22-21,Stauffer Creek,5/23/2022,42.47638,-111.4101,River_or_stream,2184.906161,Downstream,-120.84,0.02,-15.92,0.02,6.52,P2C2 Project
-BW-22-22,Georgetown Creek,5/24/2022,42.4693,-111.3955,River_or_stream,,Downstream,-124,0.01,-16.4,0,7.2,P2C2 Project
-BW-22-23,Main Stem,5/23/2022,42.40167,-111.35716,River_or_stream,2185.328306,Downstream,-101.84,0.02,-11.93,0.01,-6.4,P2C2 Project
-BW-22-24,Montpellier Creek,5/23/2022,42.32057,-111.25527,River_or_stream,2236.143389,Around,-128.29,0.01,-16.75,0.01,5.71,P2C2 Project
-BW-22-24,Montpellier Creek,5/24/2022,42.32057,-111.25527,River_or_stream,,Around,,,,,0,P2C2 Project
-BW-22-25,,,42.32057,-111.25527,River_or_stream,,Around,-129.19,0,-16.84,0,5.53,P2C2 Project
-BW-22-26,P+J Outlet Canal,5/24/2022,42.30545,-111.35867,Lake,,Around,-97.56,0.09,-11.06,0.03,-9.08,P2C2 Project
-BW-22-27,P+J inlet canal just downstream of USGS guage,5/24/2022,42.21935,-111.29586,River_or_stream,,Around,-119.85,0.01,-15.27,0,2.31,P2C2 Project
-BW-22-28,Paris Creek,5/24/2022,42.21847,-111.40099,River_or_stream,,Around,-122.9,0.04,-16.6,0.01,9.9,P2C2 Project
-BW-22-29,Creek N of Paris,5/24/2022,42.2328521,-111.4008066,River_or_stream,,Around,-124.75,0.02,-16.36,0.01,6.13,P2C2 Project
-BW-22-30,Bloomington Creek,5/24/2022,42.18466,-111.42624,River_or_stream,,Around,-124.42,0.02,-16.76,0,9.66,P2C2 Project
-BW-22-31,Spring Creek,5/24/2022,42.1439297,-111.3957198,River_or_stream,,Around,-127.47,0.12,-16.53,0.01,4.77,P2C2 Project
-BW-22-32,,,,,River_or_stream,,Around,-127.42,0.11,-16.98,0.01,8.42,P2C2 Project
-BW-22-33,,,,,River_or_stream,,Around,-127.78,0.08,-17.08,0,8.86,P2C2 Project
-BW-22-34,Swan Creek,5/23/2022,41.98504433,-111.4107074,River_or_stream,2208.757079,Around,-122.66,0.06,-15.97,0.01,5.1,P2C2 Project
-BW-22-36,,,,,River_or_stream,,Around,-128.21,0.07,-17.16,0.01,9.07,P2C2 Project
-BW-22-37,,,,,River_or_stream,,Around,-125.89,0.01,-16.57,0.01,6.67,P2C2 Project
-BW-22-38,,,,,River_or_stream,,Around,-129.89,0.09,-17.07,0.01,6.67,P2C2 Project
-BW-22-39,,5/23/2022,42.11423,-111.44588,River_or_stream,2367.174051,Around,-123.52,0.08,-16.35,0.01,7.28,P2C2 Project
-BW-22-41,,,,,River_or_stream,,Around,-123.89,0.11,-16.41,0.01,7.39,P2C2 Project
-BW-22-42,,,,,River_or_stream,,Around,-123.05,0.07,-16.24,0,6.87,P2C2 Project
-BW-22-43,,5/23/2022,42.12078,-111.29844,Lake,,Around,-108.76,0.13,-12.97,0.01,-5,P2C2 Project
-BW-22-44,,5/23/2022,42.11658,-111.29887,Lake,,Around,-83.5,0.13,-8.59,0.02,-14.78,P2C2 Project
-BW-22-44,,5/23/2022,42.11658,-111.29887,Lake,,Around,,,,,0,P2C2 Project
-BW-22-46,,,,,River_or_stream,,Around,-131.3,0.11,-16.84,0,3.42,P2C2 Project
-BW-22-48,,,,,River_or_stream,,Around,-135.49,0.16,-17.26,0.02,2.59,P2C2 Project
-BW-22-49,,5/23/2022,41.9862,-111.25934,River_or_stream,2066.049438,Around,-133.36,0.03,-16.97,0.01,2.4,P2C2 Project
-BW-22-50,,5/23/2022,41.94984,-111.27852,Lake,,Around,-77.89,0.03,-7.33,0.01,-19.25,P2C2 Project
-BW-22-51,,,,,River_or_stream,,Around,-132.8,0.06,-17,0,3.2,P2C2 Project
-BW-22-52,,5/23/2022,41.92015,-111.25407,River_or_stream,2103.858078,Around,-119.12,0.02,-14.62,0.02,-2.16,P2C2 Project
-BW-22-52a,,,,,River_or_stream,,Around,-116.75,0.05,-14.09,0.02,-4.03,P2C2 Project
-BW-22-54,,5/23/2022,41.81355,-111.37923,River_or_stream,,Around,-128.02,0,-16.59,0.01,4.7,P2C2 Project
-BW-22-100,,5/24/2022,41.24652,-111.06909,River_or_stream,2122.561566,Upstream,-115.79,0.04,-13.73,0.02,-5.95,P2C2 Project
-BW-22-100a,,,,,River_or_stream,,Upstream,-118.01,0.01,-14.15,0.01,-4.81,P2C2 Project
-BW-22-101,,,,,River_or_stream,,Upstream,-122.06,0,-15.86,0.02,4.82,P2C2 Project
-BW-22-102,,5/24/2022,41.2703,-110.96275,River_or_stream,2627.101992,Upstream,-125.69,0.04,-16.78,0.01,8.55,P2C2 Project
-BW-22-103,,5/24/2022,41.50464,-111.01528,Lake,2431.278244,Upstream,-121.39,0.09,-15.84,0.03,5.33,P2C2 Project
-BW-22-104,,,,,River_or_stream,,Upstream,-124.55,0.05,-16.49,0.03,7.37,P2C2 Project
-BW-22-105,,5/24/2022,41.61033,-111.25416,River_or_stream,2250.287452,Upstream,-130.25,0.17,-17.1,0.02,6.55,P2C2 Project
-BW-22-105,,5/24/2022,41.61033,-111.25416,River_or_stream,2250.287452,Upstream,,,,,0,P2C2 Project
-BW-22-106,,5/24/2022,41.67739,-111.23299,River_or_stream,2225.521788,Upstream,-134.08,0.18,-17.9,0.03,9.12,P2C2 Project
-BW-22-107,,5/24/2022,41.70987,-111.18893,River_or_stream,2148.533741,Upstream,-131.84,0.18,-17.4,0.03,7.36,P2C2 Project
-BW-22-108,6 mile creek,5/25/2022,42.85087,-111.14568,River_or_stream,,Upstream,-129.47,0.17,-16.47,0.01,2.29,P2C2 Project
-BW-22-109,6 mile reservoir,5/25/2022,42.83719,-111.10062,Reservoir,,Upstream,-121.49,0.15,-14.72,0.02,-3.73,P2C2 Project
-BW-22-110,Bear River main stem (downstream of USGS gauge),5/25/2022,41.94725,-110.96336,River_or_stream,,Upstream,-118.17,0.12,-14.55,0.01,-1.77,P2C2 Project
-BW-22-111,Sublette Creek,5/25/2022,42.03943,-110.93143,River_or_stream,,Upstream,-128.91,0.13,-16.52,0.03,3.25,P2C2 Project
-BW-22-111a,,,42.03943,-110.93143,River_or_stream,,Upstream,-128.08,0.13,-16.49,0.01,3.84,P2C2 Project
-BW-22-112,Spring Creek,5/24/2022,42.09562,-110.91431,River_or_stream,2060.263923,Upstream,-128.22,0.11,-17.15,0.01,8.98,P2C2 Project
-BW-22-113,Bruner Creek,5/25/2022,42.10516,-110.90287,River_or_stream,,Upstream,-129.23,0.06,-16.98,0.02,6.61,P2C2 Project
-BW-22-114,Chappel Creek,5/25/2022,42.18098,-110.87957,River_or_stream,,Upstream,-132.08,0.09,-17.12,0.02,4.88,P2C2 Project
-BW-22-115,Hawkins Creek,5/25/2022,42.21013,-110.87403,River_or_stream,,Upstream,-126.62,0.05,-16.72,0.02,7.14,P2C2 Project
-BW-22-116,Coal Creek,5/25/2022,42.23862,-110.85851,River_or_stream,,Upstream,-127.49,0.08,-16.83,0.01,7.15,P2C2 Project
-BW-22-117,Scarmill Creek,5/25/2022,42.23827,-110.85773,River_or_stream,,Upstream,-129.1,0.08,-17.07,0.02,7.46,P2C2 Project
-BW-22-118,Tuffield Creek,5/25/2022,42.27897,-110.86795,River_or_stream,,Upstream,-125.32,0.04,-16.22,0.03,4.44,P2C2 Project
-BW-22-119,Smiths Fork,5/25/2022,42.29321,-110.87231,River_or_stream,,Upstream,-128.16,0.08,-17.23,0.04,9.68,P2C2 Project
-BW-22-120,Bloom Hollow,5/25/2022,42.29761,-110.87083,River_or_stream,,Upstream,-127.74,0.01,-16.63,0.02,5.3,P2C2 Project
-BW-22-121,Preachers Hollow,5/25/2022,42.31315,-110.86953,River_or_stream,,Upstream,-126.87,0.02,-16.64,0,6.25,P2C2 Project
-BW-22-122,Twins Hollow,5/25/2022,42.26292,-110.867732,River_or_stream,,Upstream,-127.38,0.02,-16.43,0.02,4.06,P2C2 Project
-BW-22-123,Smith Fork,5/24/2022,42.0943912,-110.9508459,River_or_stream,2385.01532,Upstream,-127.91,0.02,-17.15,0.02,9.29,P2C2 Project
-BW-22-124,Bear River USGS Gauge,5/25/2022,42.21098,-111.05321,River_or_stream,,Upstream,-123.33,0.01,-16.05,0,5.07,P2C2 Project
-BW-22-125,Raymond Creek,5/25/2022,42.2766759,-111.0240746,River_or_stream,,Upstream,-125.83,0,-16.59,0.01,6.89,P2C2 Project
-BW-22-126,Thomas Fork,5/24/2022,42.32714,-111.06238,River_or_stream,2222.146073,Upstream,-128.24,0.05,-16.91,0.01,7.04,P2C2 Project
-BW-22-127,Bischoff Creek,5/25/2022,42.35138,-111.0974,River_or_stream,,Upstream,-125.44,0.02,-15.87,0.02,1.52,P2C2 Project
-BW-22-128,Twin Springs Creek,5/25/2022,42.34121,-111.17451,River_or_stream,,Upstream,-131.13,0.02,-17.24,0.01,6.79,P2C2 Project
-BW-22-129,Monpellier Creek above reservoir,5/25/2022,42.37143,-111.1717,River_or_stream,,Upstream,-126.33,0.02,-16.63,0.02,6.71,P2C2 Project
-BW-22-129a,,,42.37143,-111.1717,River_or_stream,,Upstream,-126.97,0.04,-16.83,0.02,7.67,P2C2 Project
+BW-22-1,Jordan River at Park,5/23/2022,40.7501391,-111.9209121,River_or_stream,1836.938319,Downstream,-102.24,0.39,-12.91,0.06,1.04,P2C2 Project - Vanderbilt U
+BW-22-2,Bridger Bay at Antelope Island,5/23/2022,41.0566328,-112.2558003,Lake,1911.328032,Downstream,-57.99,0.62,-3.38,0.12,-30.95,P2C2 Project - Vanderbilt U
+BW-22-3,,,,,Ground,,Downstream,-126.2,0.53,-16.67,0.05,7.16,P2C2 Project - Vanderbilt U
+BW-22-4,Lake Inflow,5/23/2022,41.0601557,-112.235448,Lake,,Downstream,-68.5,0.53,-5.62,0.04,-23.54,P2C2 Project - Vanderbilt U
+BW-22-5,Bear river,5/23/2022,41.54585,-112.09538,River_or_stream,2001.431114,Downstream,-111.82,0.48,-13.82,0.04,-1.26,P2C2 Project - Vanderbilt U
+BW-22-6,Cutler Reservoir,5/23/2022,41.84329,-112.00322,Reservoir,2062.8178,Downstream,-120.07,0.49,-15.73,0.03,5.77,P2C2 Project - Vanderbilt U
+BW-22-7,Bear River Main Stem,5/24/2022,42.19311,-111.77848,River_or_stream,,Downstream,-118.53,0.52,-15.15,0.06,2.67,P2C2 Project - Vanderbilt U
+BW-22-8,Mink Creek,5/24/2022,42.19325,-111.7808,River_or_stream,,Downstream,-120.12,0.47,-15.89,0.05,7,P2C2 Project - Vanderbilt U
+BW-22-9,Bear River Main Stem,5/23/2022,42.34721,-111.71274,River_or_stream,2149.21092,Downstream,-117.74,0.43,-14.86,0.06,1.14,P2C2 Project - Vanderbilt U
+BW-22-10,small stream off road,5/24/2022,42.32097,-111.76489,River_or_stream,,Downstream,-112.49,0.39,-14.3,0.03,1.91,P2C2 Project - Vanderbilt U
+BW-22-11,Trout Creek,5/24/2022,42.40792,-111.72494,River_or_stream,,Downstream,-118.27,0.38,-15.55,0.03,6.13,P2C2 Project - Vanderbilt U
+BW-22-12,Whiskey Creek,5/24/2022,42.45403,-111.72108,River_or_stream,,Downstream,-109.98,0.36,-13.52,0.03,-1.82,P2C2 Project - Vanderbilt U
+BW-22-13,Bear River Below Dam,5/24/2022,42.58582,-111.72944,River_or_stream,,Downstream,-118.83,0.33,-15.01,0.04,1.25,P2C2 Project - Vanderbilt U
+BW-22-14,Bear River Main Stem,5/23/2022,42.64553,-111.69917,River_or_stream,2169.902679,Downstream,-117.87,0.34,-14.87,0.03,1.09,P2C2 Project - Vanderbilt U
+BW-22-15,Soda Springs Creek,5/24/2022,42.65606,-111.61775,River_or_stream,,Downstream,-126.8,0.29,-16.41,0.03,4.48,P2C2 Project - Vanderbilt U
+BW-22-16,Ledger Creek,5/24/2022,42.61679,-111.58431,River_or_stream,,Downstream,-129.87,0.24,-16.96,0.03,5.81,P2C2 Project - Vanderbilt U
+BW-22-17,Main Stem Bear,5/23/2022,42.61413,-111.58372,River_or_stream,2179.209709,Downstream,-111.05,0.31,-13.7,0.03,-1.45,P2C2 Project - Vanderbilt U
+BW-22-18,Eight Mile Creek,5/23/2022,42.57935,-111.54526,River_or_stream,2228.41974,Downstream,-121.53,0.19,-16.42,0.03,9.83,P2C2 Project - Vanderbilt U
+BW-22-18,Eightmile Creek,5/23/2022,42.57935,-111.54526,River_or_stream,2228.41974,Downstream,,,,,0,P2C2 Project - Vanderbilt U
+BW-22-19,Pearl Creek,5/24/2022,42.52925,-111.47614,River_or_stream,,Downstream,-122.82,0.23,-16.5,0.03,9.18,P2C2 Project - Vanderbilt U
+BW-22-20,Small creek,5/24/2022,42.51015,-111.46625,River_or_stream,,Downstream,-129.21,0.04,-17.07,0,7.35,P2C2 Project - Vanderbilt U
+BW-22-21,Stauffer Creek,5/23/2022,42.47638,-111.4101,River_or_stream,2184.906161,Downstream,-120.84,0.02,-15.92,0.02,6.52,P2C2 Project - Vanderbilt U
+BW-22-22,Georgetown Creek,5/24/2022,42.4693,-111.3955,River_or_stream,,Downstream,-124,0.01,-16.4,0,7.2,P2C2 Project - Vanderbilt U
+BW-22-23,Main Stem,5/23/2022,42.40167,-111.35716,River_or_stream,2185.328306,Downstream,-101.84,0.02,-11.93,0.01,-6.4,P2C2 Project - Vanderbilt U
+BW-22-24,Montpellier Creek,5/23/2022,42.32057,-111.25527,River_or_stream,2236.143389,Around,-128.29,0.01,-16.75,0.01,5.71,P2C2 Project - Vanderbilt U
+BW-22-24,Montpellier Creek,5/24/2022,42.32057,-111.25527,River_or_stream,,Around,,,,,0,P2C2 Project - Vanderbilt U
+BW-22-25,,,42.32057,-111.25527,River_or_stream,,Around,-129.19,0,-16.84,0,5.53,P2C2 Project - Vanderbilt U
+BW-22-26,P+J Outlet Canal,5/24/2022,42.30545,-111.35867,Lake,,Around,-97.56,0.09,-11.06,0.03,-9.08,P2C2 Project - Vanderbilt U
+BW-22-27,P+J inlet canal just downstream of USGS guage,5/24/2022,42.21935,-111.29586,River_or_stream,,Around,-119.85,0.01,-15.27,0,2.31,P2C2 Project - Vanderbilt U
+BW-22-28,Paris Creek,5/24/2022,42.21847,-111.40099,River_or_stream,,Around,-122.9,0.04,-16.6,0.01,9.9,P2C2 Project - Vanderbilt U
+BW-22-29,Creek N of Paris,5/24/2022,42.2328521,-111.4008066,River_or_stream,,Around,-124.75,0.02,-16.36,0.01,6.13,P2C2 Project - Vanderbilt U
+BW-22-30,Bloomington Creek,5/24/2022,42.18466,-111.42624,River_or_stream,,Around,-124.42,0.02,-16.76,0,9.66,P2C2 Project - Vanderbilt U
+BW-22-31,Spring Creek,5/24/2022,42.1439297,-111.3957198,River_or_stream,,Around,-127.47,0.12,-16.53,0.01,4.77,P2C2 Project - Vanderbilt U
+BW-22-32,,,,,River_or_stream,,Around,-127.42,0.11,-16.98,0.01,8.42,P2C2 Project - Vanderbilt U
+BW-22-33,,,,,River_or_stream,,Around,-127.78,0.08,-17.08,0,8.86,P2C2 Project - Vanderbilt U
+BW-22-34,Swan Creek,5/23/2022,41.98504433,-111.4107074,River_or_stream,2208.757079,Around,-122.66,0.06,-15.97,0.01,5.1,P2C2 Project - Vanderbilt U
+BW-22-36,,,,,River_or_stream,,Around,-128.21,0.07,-17.16,0.01,9.07,P2C2 Project - Vanderbilt U
+BW-22-37,,,,,River_or_stream,,Around,-125.89,0.01,-16.57,0.01,6.67,P2C2 Project - Vanderbilt U
+BW-22-38,,,,,River_or_stream,,Around,-129.89,0.09,-17.07,0.01,6.67,P2C2 Project - Vanderbilt U
+BW-22-39,,5/23/2022,42.11423,-111.44588,River_or_stream,2367.174051,Around,-123.52,0.08,-16.35,0.01,7.28,P2C2 Project - Vanderbilt U
+BW-22-41,,,,,River_or_stream,,Around,-123.89,0.11,-16.41,0.01,7.39,P2C2 Project - Vanderbilt U
+BW-22-42,,,,,River_or_stream,,Around,-123.05,0.07,-16.24,0,6.87,P2C2 Project - Vanderbilt U
+BW-22-43,,5/23/2022,42.12078,-111.29844,Lake,,Around,-108.76,0.13,-12.97,0.01,-5,P2C2 Project - Vanderbilt U
+BW-22-44,,5/23/2022,42.11658,-111.29887,Lake,,Around,-83.5,0.13,-8.59,0.02,-14.78,P2C2 Project - Vanderbilt U
+BW-22-44,,5/23/2022,42.11658,-111.29887,Lake,,Around,,,,,0,P2C2 Project - Vanderbilt U
+BW-22-46,,,,,River_or_stream,,Around,-131.3,0.11,-16.84,0,3.42,P2C2 Project - Vanderbilt U
+BW-22-48,,,,,River_or_stream,,Around,-135.49,0.16,-17.26,0.02,2.59,P2C2 Project - Vanderbilt U
+BW-22-49,,5/23/2022,41.9862,-111.25934,River_or_stream,2066.049438,Around,-133.36,0.03,-16.97,0.01,2.4,P2C2 Project - Vanderbilt U
+BW-22-50,,5/23/2022,41.94984,-111.27852,Lake,,Around,-77.89,0.03,-7.33,0.01,-19.25,P2C2 Project - Vanderbilt U
+BW-22-51,,,,,River_or_stream,,Around,-132.8,0.06,-17,0,3.2,P2C2 Project - Vanderbilt U
+BW-22-52,,5/23/2022,41.92015,-111.25407,River_or_stream,2103.858078,Around,-119.12,0.02,-14.62,0.02,-2.16,P2C2 Project - Vanderbilt U
+BW-22-52a,,,,,River_or_stream,,Around,-116.75,0.05,-14.09,0.02,-4.03,P2C2 Project - Vanderbilt U
+BW-22-54,,5/23/2022,41.81355,-111.37923,River_or_stream,,Around,-128.02,0,-16.59,0.01,4.7,P2C2 Project - Vanderbilt U
+BW-22-100,,5/24/2022,41.24652,-111.06909,River_or_stream,2122.561566,Upstream,-115.79,0.04,-13.73,0.02,-5.95,P2C2 Project - Vanderbilt U
+BW-22-100a,,,,,River_or_stream,,Upstream,-118.01,0.01,-14.15,0.01,-4.81,P2C2 Project - Vanderbilt U
+BW-22-101,,,,,River_or_stream,,Upstream,-122.06,0,-15.86,0.02,4.82,P2C2 Project - Vanderbilt U
+BW-22-102,,5/24/2022,41.2703,-110.96275,River_or_stream,2627.101992,Upstream,-125.69,0.04,-16.78,0.01,8.55,P2C2 Project - Vanderbilt U
+BW-22-103,,5/24/2022,41.50464,-111.01528,Lake,2431.278244,Upstream,-121.39,0.09,-15.84,0.03,5.33,P2C2 Project - Vanderbilt U
+BW-22-104,,,,,River_or_stream,,Upstream,-124.55,0.05,-16.49,0.03,7.37,P2C2 Project - Vanderbilt U
+BW-22-105,,5/24/2022,41.61033,-111.25416,River_or_stream,2250.287452,Upstream,-130.25,0.17,-17.1,0.02,6.55,P2C2 Project - Vanderbilt U
+BW-22-105,,5/24/2022,41.61033,-111.25416,River_or_stream,2250.287452,Upstream,,,,,0,P2C2 Project - Vanderbilt U
+BW-22-106,,5/24/2022,41.67739,-111.23299,River_or_stream,2225.521788,Upstream,-134.08,0.18,-17.9,0.03,9.12,P2C2 Project - Vanderbilt U
+BW-22-107,,5/24/2022,41.70987,-111.18893,River_or_stream,2148.533741,Upstream,-131.84,0.18,-17.4,0.03,7.36,P2C2 Project - Vanderbilt U
+BW-22-108,6 mile creek,5/25/2022,42.85087,-111.14568,River_or_stream,,Upstream,-129.47,0.17,-16.47,0.01,2.29,P2C2 Project - Vanderbilt U
+BW-22-109,6 mile reservoir,5/25/2022,42.83719,-111.10062,Reservoir,,Upstream,-121.49,0.15,-14.72,0.02,-3.73,P2C2 Project - Vanderbilt U
+BW-22-110,Bear River main stem (downstream of USGS gauge),5/25/2022,41.94725,-110.96336,River_or_stream,,Upstream,-118.17,0.12,-14.55,0.01,-1.77,P2C2 Project - Vanderbilt U
+BW-22-111,Sublette Creek,5/25/2022,42.03943,-110.93143,River_or_stream,,Upstream,-128.91,0.13,-16.52,0.03,3.25,P2C2 Project - Vanderbilt U
+BW-22-111a,,,42.03943,-110.93143,River_or_stream,,Upstream,-128.08,0.13,-16.49,0.01,3.84,P2C2 Project - Vanderbilt U
+BW-22-112,Spring Creek,5/24/2022,42.09562,-110.91431,River_or_stream,2060.263923,Upstream,-128.22,0.11,-17.15,0.01,8.98,P2C2 Project - Vanderbilt U
+BW-22-113,Bruner Creek,5/25/2022,42.10516,-110.90287,River_or_stream,,Upstream,-129.23,0.06,-16.98,0.02,6.61,P2C2 Project - Vanderbilt U
+BW-22-114,Chappel Creek,5/25/2022,42.18098,-110.87957,River_or_stream,,Upstream,-132.08,0.09,-17.12,0.02,4.88,P2C2 Project - Vanderbilt U
+BW-22-115,Hawkins Creek,5/25/2022,42.21013,-110.87403,River_or_stream,,Upstream,-126.62,0.05,-16.72,0.02,7.14,P2C2 Project - Vanderbilt U
+BW-22-116,Coal Creek,5/25/2022,42.23862,-110.85851,River_or_stream,,Upstream,-127.49,0.08,-16.83,0.01,7.15,P2C2 Project - Vanderbilt U
+BW-22-117,Scarmill Creek,5/25/2022,42.23827,-110.85773,River_or_stream,,Upstream,-129.1,0.08,-17.07,0.02,7.46,P2C2 Project - Vanderbilt U
+BW-22-118,Tuffield Creek,5/25/2022,42.27897,-110.86795,River_or_stream,,Upstream,-125.32,0.04,-16.22,0.03,4.44,P2C2 Project - Vanderbilt U
+BW-22-119,Smiths Fork,5/25/2022,42.29321,-110.87231,River_or_stream,,Upstream,-128.16,0.08,-17.23,0.04,9.68,P2C2 Project - Vanderbilt U
+BW-22-120,Bloom Hollow,5/25/2022,42.29761,-110.87083,River_or_stream,,Upstream,-127.74,0.01,-16.63,0.02,5.3,P2C2 Project - Vanderbilt U
+BW-22-121,Preachers Hollow,5/25/2022,42.31315,-110.86953,River_or_stream,,Upstream,-126.87,0.02,-16.64,0,6.25,P2C2 Project - Vanderbilt U
+BW-22-122,Twins Hollow,5/25/2022,42.26292,-110.867732,River_or_stream,,Upstream,-127.38,0.02,-16.43,0.02,4.06,P2C2 Project - Vanderbilt U
+BW-22-123,Smith Fork,5/24/2022,42.0943912,-110.9508459,River_or_stream,2385.01532,Upstream,-127.91,0.02,-17.15,0.02,9.29,P2C2 Project - Vanderbilt U
+BW-22-124,Bear River USGS Gauge,5/25/2022,42.21098,-111.05321,River_or_stream,,Upstream,-123.33,0.01,-16.05,0,5.07,P2C2 Project - Vanderbilt U
+BW-22-125,Raymond Creek,5/25/2022,42.2766759,-111.0240746,River_or_stream,,Upstream,-125.83,0,-16.59,0.01,6.89,P2C2 Project - Vanderbilt U
+BW-22-126,Thomas Fork,5/24/2022,42.32714,-111.06238,River_or_stream,2222.146073,Upstream,-128.24,0.05,-16.91,0.01,7.04,P2C2 Project - Vanderbilt U
+BW-22-127,Bischoff Creek,5/25/2022,42.35138,-111.0974,River_or_stream,,Upstream,-125.44,0.02,-15.87,0.02,1.52,P2C2 Project - Vanderbilt U
+BW-22-128,Twin Springs Creek,5/25/2022,42.34121,-111.17451,River_or_stream,,Upstream,-131.13,0.02,-17.24,0.01,6.79,P2C2 Project - Vanderbilt U
+BW-22-129,Monpellier Creek above reservoir,5/25/2022,42.37143,-111.1717,River_or_stream,,Upstream,-126.33,0.02,-16.63,0.02,6.71,P2C2 Project - Vanderbilt U
+BW-22-129a,,,42.37143,-111.1717,River_or_stream,,Upstream,-126.97,0.04,-16.83,0.02,7.67,P2C2 Project - Vanderbilt U
 711013,Birch Creek Reservoir Number 2,8/23/2007,41.5055322,-111.3273337,Reservoir,2108.82,Upstream,-113.8652766,,-13.58216134,,,Waterisotopes.org
 17-027_PRCP-4-122916,at DOT bldg at snowmobile park Hwy 39,12/29/2016,41.41132,-111.58299,Precipitation,2207.53,Out,-140.8365928,0.081326396,-18.50174303,0.03305363,,Waterisotopes.org
 17-027_SNW-4-013017,at DOT bldg at snowmobile park Hwy 39,1/30/2017,41.41132,-111.58299,Snow_pit,2207.53,Out,-148.4780136,0.187207117,-20.09495231,0.028494971,,Waterisotopes.org
@@ -573,117 +573,117 @@ TW_906_T,14. Tremonton,9/7/2013,41.71188,-112.161012,River_or_stream,,Downstream
 TW_913_T,14. Tremonton,9/7/2013,41.716901,-112.092723,Canal,,Downstream,-89.4058856,0.104588392,-9.47251944,0.010007446,,Waterisotopes.org
 TW_915_T,14. Tremonton,9/7/2013,41.712192,-112.147697,Canal,,Downstream,-89.69113562,0.029469066,-9.488562192,0.008987034,,Waterisotopes.org
 TW_917_T,14. Tremonton,9/7/2013,41.711303,-112.180967,Canal,,Downstream,-89.93298032,0.093611944,-9.540269146,0.02945215,,Waterisotopes.org
-BW-23-01,"Stream near Smith's, SLC",8/9/2023,40.750605,-111.921448,River_or_stream,,Out,-103.26,0.91,-13.03,0.11,,P2C2 Project
-BW-23-02,,8/9/2023,40.9445917,-110.9670552,River_or_stream,,Upstream,-112.18,0.99,-13.6,0.11,,P2C2 Project
-BW-23-03,,8/9/2023,40.9060816,-110.9527583,River_or_stream,,Upstream,-128.29,1.14,-17.14,0.13,,P2C2 Project
-BW-23-04,,8/9/2023,40.8901289,-110.9514736,River_or_stream,,Upstream,-127.5,1.13,-16.99,0.13,,P2C2 Project
-BW-23-05,,8/9/2023,40.8794542,-110.9531097,River_or_stream,,Upstream,-131.19,1.16,-17.72,0.13,,P2C2 Project
-BW-23-06,Humphrey Creek,8/9/2023,40.8715621,-110.9274346,River_or_stream,,Upstream,-131.97,1.17,-17.72,0.13,,P2C2 Project
-BW-23-07,Meadow Creek,8/9/2023,40.862919,-110.9265538,River_or_stream,,Upstream,-130.13,1.16,-17.52,0.13,,P2C2 Project
-BW-23-08,,8/9/2023,40.8393381,-110.929924,Reservoir,,Upstream,-129.05,1.15,-17.04,0.13,,P2C2 Project
-BW-23-09,West Fork Bear River,8/9/2023,40.8613152,-110.9218073,River_or_stream,,Upstream,-131.97,1.17,-17.63,0.13,,P2C2 Project
-BW-23-10,West Fork Bear River confluence,8/9/2023,40.8687846,-110.9178018,River_or_stream,,Upstream,-131.31,0.98,-17.58,0.11,,P2C2 Project
-BW-23-11,,8/9/2023,40.8544383,-110.8801439,River_or_stream,,Upstream,-132.78,1.18,-17.72,0.13,,P2C2 Project
-BW-23-12,,8/9/2023,40.8540714,-110.8720705,River_or_stream,,Upstream,-122.44,1.09,-15.76,0.12,,P2C2 Project
-BW-23-13,Bear River stem,8/9/2023,40.8661698,-110.8354261,River_or_stream,,Upstream,-124.27,1.1,-16.75,0.13,,P2C2 Project
-BW-23-14,Hayden Fork,8/9/2023,40.8581932,-110.8416244,River_or_stream,,Upstream,-124.91,1.11,-16.64,0.13,,P2C2 Project
-BW-23-15,East Fork Bear River,8/9/2023,40.9112621,-110.8298934,River_or_stream,,Upstream,-129.17,1.15,-17.38,0.13,,P2C2 Project
-BW-23-16,Bear River,8/9/2023,40.914582,-110.8290699,River_or_stream,,Upstream,-127.61,1.13,-17.13,0.13,,P2C2 Project
-BW-23-17,Cottonwood Creek,8/9/2023,41.0462547,-110.8828425,River_or_stream,,Upstream,,,,,,P2C2 Project
-BW-23-18,Sulphur Creek,8/9/2023,41.1577572,-110.8523465,River_or_stream,,Upstream,-114.03,1.01,-14.45,0.11,,P2C2 Project
-BW-23-19,Bear River,8/9/2023,41.1682458,-110.8785876,River_or_stream,,Upstream,-124.13,1.1,-16.46,0.12,,P2C2 Project
-BW-23-20,,8/9/2023,41.2532633,-111.0069058,River_or_stream,,Upstream,-121.22,1.07,-15.3,0.12,,P2C2 Project
-BW-23-21,In town Bear River (Evanston),8/9/2023,41.2704365,-110.9625843,River_or_stream,,Upstream,-122.04,1.08,-16.03,0.12,,P2C2 Project
-BW-23-22,Standing water,8/9/2023,41.2664992,-110.9309825,Pond,,Upstream,-80.86,0.72,-10.26,0.09,,P2C2 Project
-BW-23-23,,8/9/2023,41.4063926,-111.0413601,River_or_stream,,Upstream,-118.7,1.05,-15.57,0.12,,P2C2 Project
-BW-23-24,Above Woodruff reservoir,8/9/2023,41.5055658,-111.0134323,River_or_stream,,Upstream,-130.6,1.16,-17.28,0.13,,P2C2 Project
-BW-23-25,Genes Creek,8/9/2023,41.5209553,-111.128243,River_or_stream,,Upstream,-130.74,1.16,-17.13,0.13,,P2C2 Project
-BW-23-26,Big Creek,8/10/2023,41.6283705,-111.217429,River_or_stream,,Upstream,-132.92,1.18,-17.65,0.13,,P2C2 Project
-BW-23-27,Little Creek Reservoir,8/10/2023,41.6773807,-111.2316601,Reservoir,,Upstream,-135.96,1.21,-18.12,0.13,,P2C2 Project
-BW-23-28,Little Creek Reservoir outlet,8/10/2023,41.6745652,-111.22704,River_or_stream,,Upstream,-125.27,1.11,-16.04,0.12,,P2C2 Project
-BW-23-29,Fork #1 to Little Creek Reservoir,8/10/2023,41.7022003,-111.2570881,River_or_stream,,Upstream,-136.02,1.21,-18.15,0.13,,P2C2 Project
-BW-23-30,Fork #2 to Little Creek Reservoir,8/10/2023,41.715227,-111.256262,River_or_stream,,Upstream,-136.4,1.21,-18.23,0.13,,P2C2 Project
-BW-23-31,Fork #3 to Little Creek Reservoir (Spring baseflow),8/10/2023,41.723483,-111.2536717,River_or_stream,,Upstream,-135.89,0.82,-18.15,0.08,,P2C2 Project
-BW-23-32,Fork #4 to Little Creek Reservoir,8/10/2023,41.726767,-111.2547312,River_or_stream,,Upstream,-137.83,0.84,-18.36,0.08,,P2C2 Project
-BW-23-33,Convergence of forks to LCR,8/10/2023,41.7098807,-111.1889788,River_or_stream,,Upstream,-133.01,1.18,-17.66,0.13,,P2C2 Project
-BW-23-34,,8/10/2023,41.7677278,-111.1716782,River_or_stream,,Upstream,-132.44,1.18,-17.08,0.13,,P2C2 Project
-BW-23-35,Off-road/rail stream,8/10/2023,41.8211305,-110.9413429,River_or_stream,,Upstream,-130.72,1.16,-16.81,0.13,,P2C2 Project
-BW-23-36,,8/10/2023,41.902681,-110.957211,River_or_stream,,Upstream,-130.46,1.16,-16.76,0.13,,P2C2 Project
-BW-23-37,Bear River meander,8/10/2023,41.9474325,-110.9631325,River_or_stream,,Upstream,-119.26,1.06,-14.91,0.12,,P2C2 Project
-BW-23-38,Sublette Creek,8/10/2023,42.039323,-110.9317994,River_or_stream,,Upstream,-131.91,0.8,-17.18,0.08,,P2C2 Project
-BW-23-39,Smith Fork ds,8/10/2023,42.0944484,-110.951085,River_or_stream,,Upstream,-131.14,1.16,-17.46,0.13,,P2C2 Project
-BW-23-40,Spring Creek,8/10/2023,42.0955625,-110.9142153,River_or_stream,,Upstream,-131.16,1.16,-17.41,0.13,,P2C2 Project
-BW-23-41,Bruner Creek,8/10/2023,42.1052457,-110.9029883,River_or_stream,,Upstream,-130.98,1.16,-17.16,0.13,,P2C2 Project
-BW-23-42,Smith Fork us,8/10/2023,42.2928844,-110.8726156,River_or_stream,,Upstream,-131.23,1.17,-17.59,0.13,,P2C2 Project
-BW-23-43,Bloom Hollow,8/10/2023,42.2976921,-110.8706777,River_or_stream,,Upstream,-130.63,1.16,-17,0.13,,P2C2 Project
-BW-23-44,Preachers Hollow,8/10/2023,42.3131265,-110.8696846,River_or_stream,,Upstream,-130.67,0.79,-17.07,0.08,,P2C2 Project
-BW-23-45,,8/10/2023,42.278914,-110.8679979,River_or_stream,,Upstream,-129.48,1.15,-16.78,0.13,,P2C2 Project
-BW-23-46,,8/10/2023,42.2628756,-110.8672653,River_or_stream,,Upstream,-132.2,1.17,-17.09,0.13,,P2C2 Project
-BW-23-47,,8/10/2023,42.2386412,-110.8584274,River_or_stream,,Upstream,-129.18,1.15,-16.94,0.13,,P2C2 Project
-BW-23-48,,8/10/2023,42.2382418,-110.857674,River_or_stream,,Upstream,-133.01,1.18,-17.5,0.13,,P2C2 Project
-BW-23-49,,8/10/2023,42.2099672,-110.8739792,River_or_stream,,Upstream,-130.44,1.16,-16.83,0.13,,P2C2 Project
-BW-23-50,,8/10/2023,42.181218,-110.879475,River_or_stream,,Upstream,-132.85,1.18,-17.33,0.13,,P2C2 Project
-BW-23-51,,8/10/2023,42.2109918,-111.0532959,River_or_stream,,Upstream,-125,1.11,-16.19,0.12,,P2C2 Project
-BW-23-52,Raymond Creek,8/10/2023,42.2765085,-111.0252363,River_or_stream,,Upstream,-129.34,1.15,-17.1,0.13,,P2C2 Project
-BW-23-53,Thomas Fork,8/10/2023,42.358894,-111.0537519,River_or_stream,,Upstream,-131.11,1.16,-17.17,0.13,,P2C2 Project
-BW-23-54,,8/10/2023,42.3518261,-111.0966568,River_or_stream,,Upstream,,,,,,P2C2 Project
-BW-23-55,,8/10/2023,42.3410605,-111.1747453,River_or_stream,,Upstream,-133.36,1.18,-17.46,0.13,,P2C2 Project
-BW-23-56,Small pond near Montpellier reservoir,8/10/2023,42.3415973,-111.1756989,Pond,,Upstream,-133.45,1.19,-17.44,0.13,,P2C2 Project
-BW-23-57,Montpellier Creek in KOA (beside KK4),8/10/2023,42.320578,-111.254677,River_or_stream,,Around,-130.02,1.15,-17.06,0.13,,P2C2 Project
-BW-23-58,KOA spigot,8/10/2023,42.320359,-111.254767,Ground,,Around,-133.74,1.19,-17.47,0.13,,P2C2 Project
-BW-23-59,Bear River,8/11/2023,42.4016611,-111.3571245,River_or_stream,,Around,-108.38,0.96,-13.03,0.11,,P2C2 Project
-BW-23-60,,8/11/2023,42.4016611,-111.3571245,River_or_stream,,Around,-135.07,1.2,-17.64,0.13,,P2C2 Project
-BW-23-61,P+J Outlet Canal,8/11/2023,42.305539,,River_or_stream,,Around,-109.69,0.97,-13.31,0.11,,P2C2 Project
-BW-23-62,Ovid Creek,8/11/2023,42.2833966,-111.3985794,River_or_stream,,Around,-128.36,0.78,-16.96,0.08,,P2C2 Project
-BW-23-63,North Paris Creek,8/11/2023,42.2328613,-111.4011972,River_or_stream,,Around,-132.63,1.18,-17.47,0.13,,P2C2 Project
-BW-23-64,Furthest fork Paris Creek (confluence),8/11/2023,42.218452,-111.4011885,River_or_stream,,Around,-129.33,0.78,-17.4,0.08,,P2C2 Project
-BW-23-65,Creek before inlet,8/11/2023,42.2353573,-111.3610891,River_or_stream,,Around,-127.8,0.77,-17.12,0.08,,P2C2 Project
-BW-23-66,Inlet canal (ds of gage),8/11/2023,42.2193588,-111.2957904,River_or_stream,,Around,-123.62,0.74,-15.81,0.07,,P2C2 Project
-BW-23-67,Bloomington Creek ds,8/11/2023,42.1846148,-111.4261951,River_or_stream,,Around,-129.72,0.78,-17.42,0.08,,P2C2 Project
-BW-23-68,Jarvis Spring,8/11/2023,42.1911526,-111.4815367,River_or_stream,,Around,-131.18,0.79,-17.6,0.08,,P2C2 Project
-BW-23-69,Corduroy Spring,8/11/2023,42.1852374,-111.5312931,Ground,,Around,-129.47,0.78,-17.47,0.08,,P2C2 Project
-BW-23-70,Bloomington Creek us,8/11/2023,42.1848956,-111.5312693,River_or_stream,,Around,-127.4,0.77,-17.26,0.08,,P2C2 Project
-BW-23-71,Spring Creek,8/11/2023,42.146352,-111.396301,River_or_stream,,Around,-135.07,0.82,-17.88,0.08,,P2C2 Project
-BW-23-72,St. Charles Creek,8/11/2023,42.112911,-111.4460937,River_or_stream,,Around,-130.36,0.79,-17.47,0.08,,P2C2 Project
-BW-23-73,"Bear Lake, near outlet canal connecting to Mud Lake",8/11/2023,42.1165295,-111.2988833,Lake,,Around,-88.67,0.53,-9.39,0.06,,P2C2 Project
-BW-23-74,"Mud Lake, opposite of 71",8/11/2023,42.1207692,-111.2984783,Lake,,Around,-100.79,0.6,-11.41,0.06,,P2C2 Project
-BW-23-75,Small hot spring north of Bear Lake,8/11/2023,42.1149468,-111.2645393,Spring,,Around,-146.93,0.9,-18.95,0.08,,P2C2 Project
-BW-23-76,Small spring west of Bear Lake,8/11/2023,42.0752574,-111.2521596,Spring,,Around,-141.51,0.86,-18.37,0.08,,P2C2 Project
-BW-23-77,Spigot at Sage Beach Resort,8/11/2023,42.0214034,-111.2588698,Ground,,Around,-139.12,0.84,-17.75,0.08,,P2C2 Project
-BW-23-78,Bear Lake at Sage Beach,8/11/2023,42.019532,-111.2604389,Lake,,Around,-86.71,0.52,-9.06,0.06,,P2C2 Project
-BW-23-79,Sage Spring,8/11/2023,42.0193472,-111.2602066,River_or_stream,,Around,-131.83,0.8,-16.74,0.08,,P2C2 Project
-BW-23-80,North Eden Creek,8/11/2023,41.9871466,-111.2640901,River_or_stream,,Around,-135.27,0.82,-17.23,0.08,,P2C2 Project
-BW-23-81,Bear Lake southeast side,8/11/2023,41.9451764,-111.2785733,Lake,,Around,-88.16,0.53,-9.26,0.06,,P2C2 Project
-BW-23-82,South Eden Creek,8/11/2023,41.920092,-111.2540666,River_or_stream,,Around,-123.92,0.75,-15.46,0.07,,P2C2 Project
-BW-23-83,Bear Lake southeast side,8/11/2023,41.9144717,-111.288246,Lake,,Around,-88.33,0.53,-9.28,0.06,,P2C2 Project
-BW-23-84,Big Creek,8/11/2023,41.8135661,-111.3792054,River_or_stream,,Around,-135.89,0.82,-18.02,0.08,,P2C2 Project
-BW-23-85,Bear Lake at Rest Stop beach,8/11/2023,41.8573454,-111.3627407,Lake,,Around,-87.67,0.53,-9.13,0.06,,P2C2 Project
-BW-23-86,Bear Lake Rest Stop spigot,8/11/2023,41.856927,-111.364012,Ground,,Around,-132.59,0.8,-17.29,0.08,,P2C2 Project
-BW-23-87,"Bear Lake at Public Beach, Garden City",8/11/2023,41.9438879,-111.3864484,Lake,,Around,-87.56,0.53,-9.25,0.06,,P2C2 Project
-BW-23-88,Swan Creek,8/11/2023,41.9850612,-111.4105672,River_or_stream,,Around,-133.22,0.81,-17.82,0.08,,P2C2 Project
-BW-23-89,Fish Haven Creek,8/11/2023,42.0379654,-111.4173894,River_or_stream,,Around,-133.95,0.81,-17.87,0.08,,P2C2 Project
-BW-23-90,Little Creek (St. Charles Fork),8/11/2023,42.118482,-111.3887997,River_or_stream,,Around,-130.51,0.79,-17.43,0.08,,P2C2 Project
-BW-23-91,Above Montpellier reseroir,8/12/2023,42.3676773,-111.1722237,River_or_stream,,Upstream,-130.77,0.79,-17.25,0.08,,P2C2 Project
-BW-23-92,Home Canyon Creek,8/12/2023,42.3347004,-111.2235062,River_or_stream,,Around,-135.25,0.82,-17.86,0.08,,P2C2 Project
-BW-23-93,Blue Pond Springs outlet,8/12/2023,42.1043561,-111.494693,River_or_stream,,Around,-130.38,0.79,-17.46,0.08,,P2C2 Project
-BW-23-94,Blue Pond Springs,8/12/2023,42.1048501,-111.4956297,Pond,,Around,-130.29,0.79,-17.48,0.08,,P2C2 Project
-BW-23-95,North Fork St Charles Creek (before),8/12/2023,42.1017775,-111.5389705,River_or_stream,,Around,-130.97,0.79,-17.63,0.08,,P2C2 Project
-BW-23-96,North Fork St Charles Creek,8/12/2023,42.0987941,-111.5370162,River_or_stream,,Around,-130.13,0.79,-17.54,0.08,,P2C2 Project
-BW-23-97,Spigot,8/12/2023,42.0964553,-111.5348436,Ground,,Around,-128.63,0.78,-17.34,0.08,,P2C2 Project
-BW-23-98,South Fork St Charles Creek,8/12/2023,42.0944188,-111.5297263,River_or_stream,,Around,-131.39,0.79,-17.66,0.08,,P2C2 Project
-BW-23-99,Bear Lake west side,8/12/2023,41.9786398,-111.4029437,Lake,,Around,-89.49,0.54,-9.49,0.06,,P2C2 Project
-BW-23-100,From outcrop beside road,8/12/2023,41.932011,-111.435119,Rock,,Around,,,,,,P2C2 Project
-BW-23-101,Canteen Spring,8/12/2023,41.9415639,-111.4817949,River_or_stream,,Around,-130.1,0.79,-17.28,0.08,,P2C2 Project
-BW-23-102,Beaver Creek,8/12/2023,41.9638488,-111.5325534,River_or_stream,,Out,-130.67,0.79,-17.5,0.08,,P2C2 Project
-BW-23-103,Beaver Spring,8/12/2023,41.9480753,-111.5819499,River_or_stream,,Out,,,,,,P2C2 Project
-BW-23-104,North Beaver Spring,8/12/2023,41.9591553,-111.5906986,River_or_stream,,Out,-131.68,0.8,-17.71,0.08,,P2C2 Project
-BW-23-105,Logan River ds,8/12/2023,41.9331286,-111.564025,River_or_stream,,Out,-130.81,0.79,-17.6,0.08,,P2C2 Project
-BW-23-106,Logan River ds,8/12/2023,41.9059796,-111.5633186,River_or_stream,,Out,-130.14,0.79,-17.53,0.08,,P2C2 Project
-BW-23-107,Ricks Spring,8/12/2023,41.83997,-111.5885565,River_or_stream,,Out,-131.09,0.79,-17.66,0.08,,P2C2 Project
-BW-23-108,Temple Fork 1,8/12/2023,41.8279909,-111.5777868,River_or_stream,,Out,-131.14,0.79,-17.56,0.08,,P2C2 Project
-BW-23-109,Temple Fork 2,8/12/2023,41.828642,-111.5768105,River_or_stream,,Out,-131.21,0.79,-17.53,0.08,,P2C2 Project
-BW-23-110,Temple Fork confluence,8/12/2023,41.8315492,-111.5808693,River_or_stream,,Out,,,,,,P2C2 Project
-BW-23-111,Right Fork Logan River,8/12/2023,41.780698,-111.6363525,River_or_stream,,Out,-132.88,0.8,-17.62,0.08,,P2C2 Project
-BW-23-112,Logan River ds,8/12/2023,41.7830501,-111.6407446,River_or_stream,,Out,-130.46,0.79,-17.5,0.08,,P2C2 Project
-BW-23-113,Spring Hollow,8/12/2023,41.7531098,-111.7165586,River_or_stream,,Out,-127.91,0.77,-17.32,0.08,,P2C2 Project
-BW-23-114,Bear River ds near Logan,8/12/2023,41.8407738,-111.8805991,River_or_stream,,Downstream,-111.3,0.67,-13.54,0.07,,P2C2 Project
+BW-23-01,"Stream near Smith's, SLC",8/9/2023,40.750605,-111.921448,River_or_stream,,Out,-103.26,0.91,-13.03,0.11,,P2C2 Project - Brown U
+BW-23-02,,8/9/2023,40.9445917,-110.9670552,River_or_stream,,Upstream,-112.18,0.99,-13.6,0.11,,P2C2 Project - Brown U
+BW-23-03,,8/9/2023,40.9060816,-110.9527583,River_or_stream,,Upstream,-128.29,1.14,-17.14,0.13,,P2C2 Project - Brown U
+BW-23-04,,8/9/2023,40.8901289,-110.9514736,River_or_stream,,Upstream,-127.5,1.13,-16.99,0.13,,P2C2 Project - Brown U
+BW-23-05,,8/9/2023,40.8794542,-110.9531097,River_or_stream,,Upstream,-131.19,1.16,-17.72,0.13,,P2C2 Project - Brown U
+BW-23-06,Humphrey Creek,8/9/2023,40.8715621,-110.9274346,River_or_stream,,Upstream,-131.97,1.17,-17.72,0.13,,P2C2 Project - Brown U
+BW-23-07,Meadow Creek,8/9/2023,40.862919,-110.9265538,River_or_stream,,Upstream,-130.13,1.16,-17.52,0.13,,P2C2 Project - Brown U
+BW-23-08,,8/9/2023,40.8393381,-110.929924,Reservoir,,Upstream,-129.05,1.15,-17.04,0.13,,P2C2 Project - Brown U
+BW-23-09,West Fork Bear River,8/9/2023,40.8613152,-110.9218073,River_or_stream,,Upstream,-131.97,1.17,-17.63,0.13,,P2C2 Project - Brown U
+BW-23-10,West Fork Bear River confluence,8/9/2023,40.8687846,-110.9178018,River_or_stream,,Upstream,-131.31,0.98,-17.58,0.11,,P2C2 Project - Brown U
+BW-23-11,,8/9/2023,40.8544383,-110.8801439,River_or_stream,,Upstream,-132.78,1.18,-17.72,0.13,,P2C2 Project - Brown U
+BW-23-12,,8/9/2023,40.8540714,-110.8720705,River_or_stream,,Upstream,-122.44,1.09,-15.76,0.12,,P2C2 Project - Brown U
+BW-23-13,Bear River stem,8/9/2023,40.8661698,-110.8354261,River_or_stream,,Upstream,-124.27,1.1,-16.75,0.13,,P2C2 Project - Brown U
+BW-23-14,Hayden Fork,8/9/2023,40.8581932,-110.8416244,River_or_stream,,Upstream,-124.91,1.11,-16.64,0.13,,P2C2 Project - Brown U
+BW-23-15,East Fork Bear River,8/9/2023,40.9112621,-110.8298934,River_or_stream,,Upstream,-129.17,1.15,-17.38,0.13,,P2C2 Project - Brown U
+BW-23-16,Bear River,8/9/2023,40.914582,-110.8290699,River_or_stream,,Upstream,-127.61,1.13,-17.13,0.13,,P2C2 Project - Brown U
+BW-23-17,Cottonwood Creek,8/9/2023,41.0462547,-110.8828425,River_or_stream,,Upstream,,,,,,P2C2 Project - Brown U
+BW-23-18,Sulphur Creek,8/9/2023,41.1577572,-110.8523465,River_or_stream,,Upstream,-114.03,1.01,-14.45,0.11,,P2C2 Project - Brown U
+BW-23-19,Bear River,8/9/2023,41.1682458,-110.8785876,River_or_stream,,Upstream,-124.13,1.1,-16.46,0.12,,P2C2 Project - Brown U
+BW-23-20,,8/9/2023,41.2532633,-111.0069058,River_or_stream,,Upstream,-121.22,1.07,-15.3,0.12,,P2C2 Project - Brown U
+BW-23-21,In town Bear River (Evanston),8/9/2023,41.2704365,-110.9625843,River_or_stream,,Upstream,-122.04,1.08,-16.03,0.12,,P2C2 Project - Brown U
+BW-23-22,Standing water,8/9/2023,41.2664992,-110.9309825,Pond,,Upstream,-80.86,0.72,-10.26,0.09,,P2C2 Project - Brown U
+BW-23-23,,8/9/2023,41.4063926,-111.0413601,River_or_stream,,Upstream,-118.7,1.05,-15.57,0.12,,P2C2 Project - Brown U
+BW-23-24,Above Woodruff reservoir,8/9/2023,41.5055658,-111.0134323,River_or_stream,,Upstream,-130.6,1.16,-17.28,0.13,,P2C2 Project - Brown U
+BW-23-25,Genes Creek,8/9/2023,41.5209553,-111.128243,River_or_stream,,Upstream,-130.74,1.16,-17.13,0.13,,P2C2 Project - Brown U
+BW-23-26,Big Creek,8/10/2023,41.6283705,-111.217429,River_or_stream,,Upstream,-132.92,1.18,-17.65,0.13,,P2C2 Project - Brown U
+BW-23-27,Little Creek Reservoir,8/10/2023,41.6773807,-111.2316601,Reservoir,,Upstream,-135.96,1.21,-18.12,0.13,,P2C2 Project - Brown U
+BW-23-28,Little Creek Reservoir outlet,8/10/2023,41.6745652,-111.22704,River_or_stream,,Upstream,-125.27,1.11,-16.04,0.12,,P2C2 Project - Brown U
+BW-23-29,Fork #1 to Little Creek Reservoir,8/10/2023,41.7022003,-111.2570881,River_or_stream,,Upstream,-136.02,1.21,-18.15,0.13,,P2C2 Project - Brown U
+BW-23-30,Fork #2 to Little Creek Reservoir,8/10/2023,41.715227,-111.256262,River_or_stream,,Upstream,-136.4,1.21,-18.23,0.13,,P2C2 Project - Brown U
+BW-23-31,Fork #3 to Little Creek Reservoir (Spring baseflow),8/10/2023,41.723483,-111.2536717,River_or_stream,,Upstream,-135.89,0.82,-18.15,0.08,,P2C2 Project - Brown U
+BW-23-32,Fork #4 to Little Creek Reservoir,8/10/2023,41.726767,-111.2547312,River_or_stream,,Upstream,-137.83,0.84,-18.36,0.08,,P2C2 Project - Brown U
+BW-23-33,Convergence of forks to LCR,8/10/2023,41.7098807,-111.1889788,River_or_stream,,Upstream,-133.01,1.18,-17.66,0.13,,P2C2 Project - Brown U
+BW-23-34,,8/10/2023,41.7677278,-111.1716782,River_or_stream,,Upstream,-132.44,1.18,-17.08,0.13,,P2C2 Project - Brown U
+BW-23-35,Off-road/rail stream,8/10/2023,41.8211305,-110.9413429,River_or_stream,,Upstream,-130.72,1.16,-16.81,0.13,,P2C2 Project - Brown U
+BW-23-36,,8/10/2023,41.902681,-110.957211,River_or_stream,,Upstream,-130.46,1.16,-16.76,0.13,,P2C2 Project - Brown U
+BW-23-37,Bear River meander,8/10/2023,41.9474325,-110.9631325,River_or_stream,,Upstream,-119.26,1.06,-14.91,0.12,,P2C2 Project - Brown U
+BW-23-38,Sublette Creek,8/10/2023,42.039323,-110.9317994,River_or_stream,,Upstream,-131.91,0.8,-17.18,0.08,,P2C2 Project - Brown U
+BW-23-39,Smith Fork ds,8/10/2023,42.0944484,-110.951085,River_or_stream,,Upstream,-131.14,1.16,-17.46,0.13,,P2C2 Project - Brown U
+BW-23-40,Spring Creek,8/10/2023,42.0955625,-110.9142153,River_or_stream,,Upstream,-131.16,1.16,-17.41,0.13,,P2C2 Project - Brown U
+BW-23-41,Bruner Creek,8/10/2023,42.1052457,-110.9029883,River_or_stream,,Upstream,-130.98,1.16,-17.16,0.13,,P2C2 Project - Brown U
+BW-23-42,Smith Fork us,8/10/2023,42.2928844,-110.8726156,River_or_stream,,Upstream,-131.23,1.17,-17.59,0.13,,P2C2 Project - Brown U
+BW-23-43,Bloom Hollow,8/10/2023,42.2976921,-110.8706777,River_or_stream,,Upstream,-130.63,1.16,-17,0.13,,P2C2 Project - Brown U
+BW-23-44,Preachers Hollow,8/10/2023,42.3131265,-110.8696846,River_or_stream,,Upstream,-130.67,0.79,-17.07,0.08,,P2C2 Project - Brown U
+BW-23-45,,8/10/2023,42.278914,-110.8679979,River_or_stream,,Upstream,-129.48,1.15,-16.78,0.13,,P2C2 Project - Brown U
+BW-23-46,,8/10/2023,42.2628756,-110.8672653,River_or_stream,,Upstream,-132.2,1.17,-17.09,0.13,,P2C2 Project - Brown U
+BW-23-47,,8/10/2023,42.2386412,-110.8584274,River_or_stream,,Upstream,-129.18,1.15,-16.94,0.13,,P2C2 Project - Brown U
+BW-23-48,,8/10/2023,42.2382418,-110.857674,River_or_stream,,Upstream,-133.01,1.18,-17.5,0.13,,P2C2 Project - Brown U
+BW-23-49,,8/10/2023,42.2099672,-110.8739792,River_or_stream,,Upstream,-130.44,1.16,-16.83,0.13,,P2C2 Project - Brown U
+BW-23-50,,8/10/2023,42.181218,-110.879475,River_or_stream,,Upstream,-132.85,1.18,-17.33,0.13,,P2C2 Project - Brown U
+BW-23-51,,8/10/2023,42.2109918,-111.0532959,River_or_stream,,Upstream,-125,1.11,-16.19,0.12,,P2C2 Project - Brown U
+BW-23-52,Raymond Creek,8/10/2023,42.2765085,-111.0252363,River_or_stream,,Upstream,-129.34,1.15,-17.1,0.13,,P2C2 Project - Brown U
+BW-23-53,Thomas Fork,8/10/2023,42.358894,-111.0537519,River_or_stream,,Upstream,-131.11,1.16,-17.17,0.13,,P2C2 Project - Brown U
+BW-23-54,,8/10/2023,42.3518261,-111.0966568,River_or_stream,,Upstream,,,,,,P2C2 Project - Brown U
+BW-23-55,,8/10/2023,42.3410605,-111.1747453,River_or_stream,,Upstream,-133.36,1.18,-17.46,0.13,,P2C2 Project - Brown U
+BW-23-56,Small pond near Montpellier reservoir,8/10/2023,42.3415973,-111.1756989,Pond,,Upstream,-133.45,1.19,-17.44,0.13,,P2C2 Project - Brown U
+BW-23-57,Montpellier Creek in KOA (beside KK4),8/10/2023,42.320578,-111.254677,River_or_stream,,Around,-130.02,1.15,-17.06,0.13,,P2C2 Project - Brown U
+BW-23-58,KOA spigot,8/10/2023,42.320359,-111.254767,Ground,,Around,-133.74,1.19,-17.47,0.13,,P2C2 Project - Brown U
+BW-23-59,Bear River,8/11/2023,42.4016611,-111.3571245,River_or_stream,,Around,-108.38,0.96,-13.03,0.11,,P2C2 Project - Brown U
+BW-23-60,,8/11/2023,42.4016611,-111.3571245,River_or_stream,,Around,-135.07,1.2,-17.64,0.13,,P2C2 Project - Brown U
+BW-23-61,P+J Outlet Canal,8/11/2023,42.305539,,River_or_stream,,Around,-109.69,0.97,-13.31,0.11,,P2C2 Project - Brown U
+BW-23-62,Ovid Creek,8/11/2023,42.2833966,-111.3985794,River_or_stream,,Around,-128.36,0.78,-16.96,0.08,,P2C2 Project - Brown U
+BW-23-63,North Paris Creek,8/11/2023,42.2328613,-111.4011972,River_or_stream,,Around,-132.63,1.18,-17.47,0.13,,P2C2 Project - Brown U
+BW-23-64,Furthest fork Paris Creek (confluence),8/11/2023,42.218452,-111.4011885,River_or_stream,,Around,-129.33,0.78,-17.4,0.08,,P2C2 Project - Brown U
+BW-23-65,Creek before inlet,8/11/2023,42.2353573,-111.3610891,River_or_stream,,Around,-127.8,0.77,-17.12,0.08,,P2C2 Project - Brown U
+BW-23-66,Inlet canal (ds of gage),8/11/2023,42.2193588,-111.2957904,River_or_stream,,Around,-123.62,0.74,-15.81,0.07,,P2C2 Project - Brown U
+BW-23-67,Bloomington Creek ds,8/11/2023,42.1846148,-111.4261951,River_or_stream,,Around,-129.72,0.78,-17.42,0.08,,P2C2 Project - Brown U
+BW-23-68,Jarvis Spring,8/11/2023,42.1911526,-111.4815367,River_or_stream,,Around,-131.18,0.79,-17.6,0.08,,P2C2 Project - Brown U
+BW-23-69,Corduroy Spring,8/11/2023,42.1852374,-111.5312931,Ground,,Around,-129.47,0.78,-17.47,0.08,,P2C2 Project - Brown U
+BW-23-70,Bloomington Creek us,8/11/2023,42.1848956,-111.5312693,River_or_stream,,Around,-127.4,0.77,-17.26,0.08,,P2C2 Project - Brown U
+BW-23-71,Spring Creek,8/11/2023,42.146352,-111.396301,River_or_stream,,Around,-135.07,0.82,-17.88,0.08,,P2C2 Project - Brown U
+BW-23-72,St. Charles Creek,8/11/2023,42.112911,-111.4460937,River_or_stream,,Around,-130.36,0.79,-17.47,0.08,,P2C2 Project - Brown U
+BW-23-73,"Bear Lake, near outlet canal connecting to Mud Lake",8/11/2023,42.1165295,-111.2988833,Lake,,Around,-88.67,0.53,-9.39,0.06,,P2C2 Project - Brown U
+BW-23-74,"Mud Lake, opposite of 71",8/11/2023,42.1207692,-111.2984783,Lake,,Around,-100.79,0.6,-11.41,0.06,,P2C2 Project - Brown U
+BW-23-75,Small hot spring north of Bear Lake,8/11/2023,42.1149468,-111.2645393,Spring,,Around,-146.93,0.9,-18.95,0.08,,P2C2 Project - Brown U
+BW-23-76,Small spring west of Bear Lake,8/11/2023,42.0752574,-111.2521596,Spring,,Around,-141.51,0.86,-18.37,0.08,,P2C2 Project - Brown U
+BW-23-77,Spigot at Sage Beach Resort,8/11/2023,42.0214034,-111.2588698,Ground,,Around,-139.12,0.84,-17.75,0.08,,P2C2 Project - Brown U
+BW-23-78,Bear Lake at Sage Beach,8/11/2023,42.019532,-111.2604389,Lake,,Around,-86.71,0.52,-9.06,0.06,,P2C2 Project - Brown U
+BW-23-79,Sage Spring,8/11/2023,42.0193472,-111.2602066,River_or_stream,,Around,-131.83,0.8,-16.74,0.08,,P2C2 Project - Brown U
+BW-23-80,North Eden Creek,8/11/2023,41.9871466,-111.2640901,River_or_stream,,Around,-135.27,0.82,-17.23,0.08,,P2C2 Project - Brown U
+BW-23-81,Bear Lake southeast side,8/11/2023,41.9451764,-111.2785733,Lake,,Around,-88.16,0.53,-9.26,0.06,,P2C2 Project - Brown U
+BW-23-82,South Eden Creek,8/11/2023,41.920092,-111.2540666,River_or_stream,,Around,-123.92,0.75,-15.46,0.07,,P2C2 Project - Brown U
+BW-23-83,Bear Lake southeast side,8/11/2023,41.9144717,-111.288246,Lake,,Around,-88.33,0.53,-9.28,0.06,,P2C2 Project - Brown U
+BW-23-84,Big Creek,8/11/2023,41.8135661,-111.3792054,River_or_stream,,Around,-135.89,0.82,-18.02,0.08,,P2C2 Project - Brown U
+BW-23-85,Bear Lake at Rest Stop beach,8/11/2023,41.8573454,-111.3627407,Lake,,Around,-87.67,0.53,-9.13,0.06,,P2C2 Project - Brown U
+BW-23-86,Bear Lake Rest Stop spigot,8/11/2023,41.856927,-111.364012,Ground,,Around,-132.59,0.8,-17.29,0.08,,P2C2 Project - Brown U
+BW-23-87,"Bear Lake at Public Beach, Garden City",8/11/2023,41.9438879,-111.3864484,Lake,,Around,-87.56,0.53,-9.25,0.06,,P2C2 Project - Brown U
+BW-23-88,Swan Creek,8/11/2023,41.9850612,-111.4105672,River_or_stream,,Around,-133.22,0.81,-17.82,0.08,,P2C2 Project - Brown U
+BW-23-89,Fish Haven Creek,8/11/2023,42.0379654,-111.4173894,River_or_stream,,Around,-133.95,0.81,-17.87,0.08,,P2C2 Project - Brown U
+BW-23-90,Little Creek (St. Charles Fork),8/11/2023,42.118482,-111.3887997,River_or_stream,,Around,-130.51,0.79,-17.43,0.08,,P2C2 Project - Brown U
+BW-23-91,Above Montpellier reseroir,8/12/2023,42.3676773,-111.1722237,River_or_stream,,Upstream,-130.77,0.79,-17.25,0.08,,P2C2 Project - Brown U
+BW-23-92,Home Canyon Creek,8/12/2023,42.3347004,-111.2235062,River_or_stream,,Around,-135.25,0.82,-17.86,0.08,,P2C2 Project - Brown U
+BW-23-93,Blue Pond Springs outlet,8/12/2023,42.1043561,-111.494693,River_or_stream,,Around,-130.38,0.79,-17.46,0.08,,P2C2 Project - Brown U
+BW-23-94,Blue Pond Springs,8/12/2023,42.1048501,-111.4956297,Pond,,Around,-130.29,0.79,-17.48,0.08,,P2C2 Project - Brown U
+BW-23-95,North Fork St Charles Creek (before),8/12/2023,42.1017775,-111.5389705,River_or_stream,,Around,-130.97,0.79,-17.63,0.08,,P2C2 Project - Brown U
+BW-23-96,North Fork St Charles Creek,8/12/2023,42.0987941,-111.5370162,River_or_stream,,Around,-130.13,0.79,-17.54,0.08,,P2C2 Project - Brown U
+BW-23-97,Spigot,8/12/2023,42.0964553,-111.5348436,Ground,,Around,-128.63,0.78,-17.34,0.08,,P2C2 Project - Brown U
+BW-23-98,South Fork St Charles Creek,8/12/2023,42.0944188,-111.5297263,River_or_stream,,Around,-131.39,0.79,-17.66,0.08,,P2C2 Project - Brown U
+BW-23-99,Bear Lake west side,8/12/2023,41.9786398,-111.4029437,Lake,,Around,-89.49,0.54,-9.49,0.06,,P2C2 Project - Brown U
+BW-23-100,From outcrop beside road,8/12/2023,41.932011,-111.435119,Rock,,Around,,,,,,P2C2 Project - Brown U
+BW-23-101,Canteen Spring,8/12/2023,41.9415639,-111.4817949,River_or_stream,,Around,-130.1,0.79,-17.28,0.08,,P2C2 Project - Brown U
+BW-23-102,Beaver Creek,8/12/2023,41.9638488,-111.5325534,River_or_stream,,Out,-130.67,0.79,-17.5,0.08,,P2C2 Project - Brown U
+BW-23-103,Beaver Spring,8/12/2023,41.9480753,-111.5819499,River_or_stream,,Out,,,,,,P2C2 Project - Brown U
+BW-23-104,North Beaver Spring,8/12/2023,41.9591553,-111.5906986,River_or_stream,,Out,-131.68,0.8,-17.71,0.08,,P2C2 Project - Brown U
+BW-23-105,Logan River ds,8/12/2023,41.9331286,-111.564025,River_or_stream,,Out,-130.81,0.79,-17.6,0.08,,P2C2 Project - Brown U
+BW-23-106,Logan River ds,8/12/2023,41.9059796,-111.5633186,River_or_stream,,Out,-130.14,0.79,-17.53,0.08,,P2C2 Project - Brown U
+BW-23-107,Ricks Spring,8/12/2023,41.83997,-111.5885565,River_or_stream,,Out,-131.09,0.79,-17.66,0.08,,P2C2 Project - Brown U
+BW-23-108,Temple Fork 1,8/12/2023,41.8279909,-111.5777868,River_or_stream,,Out,-131.14,0.79,-17.56,0.08,,P2C2 Project - Brown U
+BW-23-109,Temple Fork 2,8/12/2023,41.828642,-111.5768105,River_or_stream,,Out,-131.21,0.79,-17.53,0.08,,P2C2 Project - Brown U
+BW-23-110,Temple Fork confluence,8/12/2023,41.8315492,-111.5808693,River_or_stream,,Out,,,,,,P2C2 Project - Brown U
+BW-23-111,Right Fork Logan River,8/12/2023,41.780698,-111.6363525,River_or_stream,,Out,-132.88,0.8,-17.62,0.08,,P2C2 Project - Brown U
+BW-23-112,Logan River ds,8/12/2023,41.7830501,-111.6407446,River_or_stream,,Out,-130.46,0.79,-17.5,0.08,,P2C2 Project - Brown U
+BW-23-113,Spring Hollow,8/12/2023,41.7531098,-111.7165586,River_or_stream,,Out,-127.91,0.77,-17.32,0.08,,P2C2 Project - Brown U
+BW-23-114,Bear River ds near Logan,8/12/2023,41.8407738,-111.8805991,River_or_stream,,Downstream,-111.3,0.67,-13.54,0.07,,P2C2 Project - Brown U
