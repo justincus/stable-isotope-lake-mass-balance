@@ -1,8 +1,8 @@
-The Python scripts and CSV files uploaded in this repository are  for the isotope mass balance calculations described in Custado, et al. (2024): Constraining the Modern Hydrological Balance of Bear Lake, Utah-Idaho: Insights from Stable Isotopes (<sup>18</sup>O and <sup>2</sup>H)
+The Python scripts and CSV files uploaded in this repository are  used in the isotope mass balance calculations described in Custado, et al. (2024): Constraining the Modern Hydrological Balance of Bear Lake, Utah-Idaho: Insights from Stable Isotopes (<sup>18</sup>O and <sup>2</sup>H)
 
 The description of each file is provided below:
 
-- "lake_balance_functions":  Contains all the functions related to the isotopic mass balance calculations performed and the derivation of input parameters (fractionation and enrichment factors, isotopic composition of the atmosphere, etc.). These functions are called in the mass balance calculation scripts.
+- "lake_balance_functions":  Contains all the functions related to the isotope mass balance calculations performed and the derivation of input parameters (fractionation and enrichment factors, isotopic composition of the atmosphere, etc.). These functions are called in the mass balance calculation scripts.
 - "custado_et_al_2024_bear_lake_mass_balance_1":  Executes the individual isotopic mass balance calculations for each isotope, as described in Section 5.2.1 of the paper.
 - "custado_et_al_2024_bear_lake_mass_balance_2":  Executes the isotopic mass balance calculations using the system of equations described in Section 5.2.2 of the paper.
 - "custado_et_al_2024_uncertainty":  Executes combined uncertainty calculations as described in Section 5.3 of the paper.
